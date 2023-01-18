@@ -1,6 +1,6 @@
 
 
-## Techno 
+## TECHNO
 Vanilla JS -> Que du JS sans librairie ni framework SASS
 
 ## SYSTEME DE ROUTING 
